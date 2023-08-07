@@ -1,0 +1,23 @@
+{
+  "tauri": {
+    "bundle": {
+      "icon": ["icons/800best.icns"],
+      "identifier": "com.800best.v9m",
+      "active": true,
+      "category": "DeveloperTool",
+      "copyright": "",
+      "externalBin": [],
+      "longDescription": "",
+      "macOS": {
+        "entitlements": null,
+        "exceptionDomain": "",
+        "frameworks": [],
+        "providerShortName": null,
+        "signingIdentity": null
+      },
+      "resources": [],
+      "shortDescription": "",
+      "targets": ["dmg"]
+    }
+  }
+}
